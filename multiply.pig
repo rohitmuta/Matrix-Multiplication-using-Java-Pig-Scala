@@ -1,5 +1,3 @@
---Code By Rohit M   -- 1002091557 --
-
 -- How to execute(In Terminal):
 --~/pig-0.17.0/bin/pig -x local -param M=M-matrix-small.txt
 -- -param N=N-matrix-small.txt -param O=output770 multiply.pig
