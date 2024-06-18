@@ -1,8 +1,3 @@
-
-/*****  Code by Rohit Mahuli  *****/
-
-/*****       1002091557       *****/
-
 /***  How to run(in terminal)
  * :$: hadoop jar myproj8.jar testinputA testinputB interoutputdirectory reduceoutputdirectory  ***/
 
