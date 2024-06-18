@@ -1,4 +1,3 @@
-/***   Code by Rohit M - 1002091557 ***/
 /*** Matrix Multiplication in scala on spark ***/
 /***  How to execute: ~/spark-3.2.3-bin-hadoop2.7/bin/spark-submit
 --class Multiply scalatest5.jar inputA inputB output_path (in terminal - need hadoop-spark package) ***/
